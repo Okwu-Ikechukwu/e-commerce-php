@@ -1,0 +1,2289 @@
+
+
+.all{
+    background-color: #c6deef;
+}
+
+
+#collect{
+    background-color: #000;
+}
+
+
+#sell{
+    color: black;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.sell{
+    background-color: #d9d9d9;
+}
+
+.nav-item{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+
+.navbar-brand{
+    font-weight: bolder;
+    
+}
+
+#btn1{
+  background: #f68b1e;
+  border: #f68b1e;
+}
+
+
+
+#col{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.card-title{
+    color: #000;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card{
+    cursor: pointer;
+}
+
+#log{
+    text-decoration: none;
+    color: black;
+}
+
+#name{
+    color: #f68b1e;
+}
+
+#move{
+    color: #000;
+    position: absolute;
+    right: 410px;
+    top: 4px;
+}
+
+#footer {
+    background-color: black;
+    text-align: center;
+
+  }
+
+
+.after{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.after::after{
+    height: 3px;
+    background-color: #f68b1e;
+    content: '';
+    display: block;
+    width: 2000px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#foot{
+    color: #f68b1e;
+}
+.fa-facebook, .fa-instagram, .fa-youtube, .fa-twitter, .fa-linkedin{
+    color: #fff;
+    font-size: 35px;
+}
+.fa-facebook:hover{
+    color: blue;
+}
+.fa-twitter:hover{
+    color: blue;
+}
+.fa-youtube:hover{
+    color: red;
+}
+.fa-instagram:hover{
+    color: rgb(240, 87, 151);
+}
+.fa-linkedin:hover{
+    color: rgb(43, 43, 238);
+}
+#foot::after{
+    height: 3px;
+    background-color: #f68b1e;
+    content: '';
+    display: block;
+    width: 40px;
+    border-radius: 10px;
+    margin: auto;  
+}
+
+#ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.my-title h2{
+    width: fit-content;
+    color: #f68b1e;
+}
+.my-title h2::after{
+    height: 3px;
+    background-color: #f68b1e;
+    content: '';
+    display: block;
+    width: 40px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+i{
+    color: #f68b1e;
+}
+
+#b{
+    color: #f68b1e;
+}
+.cs{
+    width: 25px;
+    height: 25px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+
+.li{
+    text-decoration: none;
+    color: white;
+}
+.li:hover{
+    color: #f68b1e;
+}
+
+
+#myBtn {
+    display: none; 
+    position: fixed; 
+    bottom: 20px; 
+    right: 30px; 
+    z-index: 99; 
+    border: none; 
+    border-radius: 20px;
+    height: 3vw;
+    width: 3vw;
+    outline: none; 
+    background-color: #f68b1e; 
+    color: black; 
+    cursor: pointer; 
+    padding: 3px; 
+    font-size: 25px; 
+  }
+  
+  #myBtn:hover {
+    background-color: #f68b1e; 
+    color: #ffff;
+  }
+
+  .owl-carousel .owl-nav button{
+    position: absolute;
+    top: 30%;
+    outline: none;
+  }
+  .owl-carousel .owl-nav button.owl-prev:hover{
+       background-color:#000;
+  }
+  .owl-carousel .owl-nav button.owl-next:hover{
+       background-color: #000;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev span:hover{
+       color: #f68b1e;
+  }
+  .owl-carousel .owl-nav button.owl-next span:hover{
+       color: #f68b1e;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev{
+    left: -45px;
+   
+  }
+  .owl-carousel .owl-nav button.owl-next{
+    right: -40px;
+   
+  }
+  .owl-carousel .owl-nav button.owl-prev span{
+    font-size: 45px;
+    color: #fff;
+  }
+  .owl-carousel .owl-nav button.owl-next span{
+    font-size: 45px;
+    color: #fff;
+  }
+  .cd1{
+    transition: transform .5s ease;
+    color: #000;
+  }
+  .cd1:hover{
+    transform : scale(1.1);
+  }
+
+
+  .cd2{
+    transition: transform .5s ease;
+    color: #000;
+  }
+  .cd2:hover{
+    transform : scale(1.1);
+  }
+
+
+  #imgc{
+    width: 60px;
+  }
+
+  #btn3{
+    background-color: #f68b1e;
+}
+
+
+#mageo{
+    font-size:x-large;
+    font-weight: bolder;
+}
+
+#mages{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+
+    /* RESPONSIVE
+  @media (max-width: ) {
+    
+  } */
+  
+
+  @media (max-width:2000px) {
+    #navbar-brand{
+        padding-left: 130px;
+        padding-right:5px;
+      }
+      
+      #bar{
+        padding-left: 20px;padding-right:50px;
+      }
+
+      #search{
+        width: 700px;
+    }
+    #car{
+        padding: 0 0.9rem 0.1rem 0.9rem; border-radius:3rem;text-decoration:none; color:#000;background-color:#f68b1e;
+    }
+
+    #car1{
+        font-size: large;
+    }
+
+    .imge{
+        width: 100%;
+        margin-bottom: 26px;
+    }
+     .imgee{
+       width: 100%;
+     }
+     #imgsss{
+        width: 190px;
+      }
+      #imgss{
+        width: 160px;
+        height: 70px;
+      }
+      .imge2{
+        width: 100%; 
+        margin-bottom: 26px;  
+    }
+
+      .owl-carousel .owl-nav button.owl-prev{
+        left: -45px;
+        top: 28px;
+       
+      }
+      .owl-carousel .owl-nav button.owl-next{
+        right: -40px;
+        top: 28px;
+       
+      }
+
+      #cimg{
+        width: 100px;
+      
+    }
+    #wimg{
+        width: 100px;
+    }
+
+
+    #qty{
+      
+        width: 117px;
+      }
+    .deleteItem{
+       
+        width: 110px;
+        
+    }
+    .addToWishlist{
+        width: 150px;
+    }
+    
+
+    .deleteItem2{
+        width: 110px;
+    }
+    .addback{
+        width: 140px;
+    }
+
+    #imgc{
+        width: 60px;
+      }
+
+
+    #imgp1{
+        width: 280px;
+        }
+    
+    #imgp{
+        width: 350;
+        height: 380px;
+    }
+    #mage{
+        width:275px; 
+        height:184px;
+    }
+
+    #mageo{
+        font-size:x-large;
+        font-weight: bolder;
+    }
+    
+    #mages{
+        font-size: xx-large;
+        font-weight: bolder;
+    }
+    
+
+
+  }
+
+
+  @media (max-width:1300px) {
+    #navbar-brand{
+        padding-left: 10px;
+        padding-right:5px;
+      }
+      #search{
+        width: 500px;
+    }
+    #text{
+        font-size: x-small;
+        font-weight: bold;
+    }
+    #text1{
+        font-size: small;
+        font-weight: bold;
+    }
+
+
+    #myBtn {
+        display: none; 
+        position: fixed; 
+        bottom: 20px; 
+        right: 30px; 
+        z-index: 99; 
+        border: none; 
+        border-radius: 20px;
+        height: 5vw;
+        width: 5vw;
+        outline: none; 
+        background-color:  #f68b1e; 
+        color: white; 
+        cursor: pointer; 
+        padding: 3px; 
+        font-size: 25px; 
+      }
+      #myBtn:hover {
+        background-color: #f68b1e; 
+        color: #ffff;
+      }
+
+      #imgsss{
+        width: 150px;
+      }
+      #imgss{
+        width: 120px;
+        height: 70px;
+      }
+      
+      #qty{
+        width: 114px;
+      }
+    .deleteItem{
+        width: 80px;
+        font-size: small;
+    }
+    .addToWishlist{
+        width: 80px;
+        font-size: small;
+       
+    }
+  }
+
+  @media (max-width:1100px) {
+    #navbar-brand{
+        padding-left: 10px;
+        padding-right:0px;
+      }
+      #h1{
+        font-size: larger;
+      }
+      #bar{
+        padding-left: 10px;padding-right:25px;
+      }
+      #search{
+       width: 400px;
+      }
+
+      #car{
+   
+        padding: 0 0.9rem 0.1rem 0.9rem; border-radius:3rem;text-decoration:none; color:#000;background-color:#f68b1e;
+        font-size: small;
+    }
+    #car1{
+        font-size: small;
+    }
+    .nav-link{
+        font-size: large;
+        font-weight: bold;
+    }
+    #text{
+        font-size: xx-small;
+       
+       
+    }
+    #text1{
+        font-size: xx-small;
+        font-weight: bold;
+    }
+    .imgee{
+        margin-top: 5px;
+        width: 100%;
+      }
+      .imge{
+        width: 100%;
+        margin-bottom: 22px;
+    }
+    .imge2{
+        width: 100%; 
+        margin-bottom: 22px;  
+    }
+
+    #myBtn {
+        display: none; 
+        position: fixed; 
+        bottom: 20px; 
+        right: 30px; 
+        z-index: 99; 
+        border: none; 
+        border-radius: 20px;
+        height: 5vw;
+        width: 5vw;
+        outline: none; 
+        background-color:  #f68b1e; 
+        color: white; 
+        cursor: pointer; 
+        padding: 3px; 
+        font-size: 25px; 
+      }
+      #myBtn:hover {
+        background-color: #f68b1e; 
+        color: #ffff;
+      }
+
+      #imgp1{
+        width: 230px;
+        }
+    
+    #imgp{
+        width: 350;
+        height: 330px;
+    }
+
+    #mage{
+        width:275px; 
+        height:110px;
+    }
+    #magen{
+        font-size: medium;
+    }
+      
+   
+  }
+
+
+  @media (max-width:920px) {
+    #navbar-brand{
+        padding-left: 30px;
+        padding-right:0px;
+      }
+      #h1{
+        font-size: larger;
+      }
+      #bar{
+        padding-left: 0px;padding-right:600px;
+      }
+      #search{
+       width: 400px;
+      }
+
+      #car{
+   
+        padding: 0 0.9rem 0.1rem 0.9rem; border-radius:3rem;text-decoration:none; color:#000;background-color:#f68b1e;
+        font-size: small;
+    }
+    #car1{
+        font-size: small;
+    }
+    .nav-link{
+        font-size: large;
+        font-weight: bold;
+    }
+    #text{
+        font-size: xx-small;
+       
+       
+    }
+    #text1{
+        font-size: xx-small;
+        font-weight: bold;
+    }
+    .imgee{
+        margin-top: 5px;
+        width: 100%;
+      }
+      .imge{
+        width: 100%;
+        margin-bottom: 22px;
+    }
+    .imge2{
+        width: 100%; 
+        margin-bottom: 22px;  
+    }
+
+    #myBtn {
+        display: none; 
+        position: fixed; 
+        bottom: 20px; 
+        right: 30px; 
+        z-index: 99; 
+        border: none; 
+        border-radius: 20px;
+        height: 5vw;
+        width: 5vw;
+        outline: none; 
+        background-color:  #f68b1e; 
+        color: white; 
+        cursor: pointer; 
+        padding: 3px; 
+        font-size: 25px; 
+      }
+      #myBtn:hover {
+        background-color: #f68b1e; 
+        color: #ffff;
+      }
+
+      #qty{
+        width: 114px;
+        font-size: small;
+      }
+    .deleteItem{
+        width: 100px;
+        font-size: small;
+        margin-bottom: 6px;
+        margin-left: 20px;
+    }
+    .addToWishlist{
+        width: 100px;
+        font-size: small;
+        margin-left: 20px;
+    }
+    .deleteItem2{
+        width: 77px;
+        font-size: small;
+    }
+    .addback{
+        width: 80px;
+        font-size: small;
+    }
+
+    #imgc{
+        width: 45px;
+    }
+      
+    #price3{
+        position: absolute;
+        right: 70px;
+        font-size: small;
+        margin-top: -13px;
+    }
+    #qty1{
+        position: absolute;
+        right: 30px;
+        font-size: small;
+        margin-top: -13px;
+    }
+
+    #imgp1{
+        width: 145px;
+        }
+    
+    #imgp{
+        width: 350;
+        height: 245px;
+    }
+
+    #mage{
+        width: 200px;
+        height: 100px;
+    }
+
+    #magen{
+        width: 110px;
+        font-size: large;
+        font-weight: bold;
+    }
+    #megao{
+        font-size: small;
+    }
+
+    #mages{
+        font-size: large;
+        font-weight: bolder;
+    }
+
+    .fa-star{
+        font-size: small;
+    }
+
+    #mage{
+        width:275px; 
+        height:100px;
+    }
+
+    #mageo{
+        font-size: small;
+        font-weight: bold;
+    }
+    
+    #mages{
+        font-size: large;
+        font-weight: bold;
+    }
+
+    #btn2{
+        font-size: x-small;
+        /* font-weight: bold; */
+    }
+
+   
+  }
+
+  @media (max-width:830px) {
+    #navbar-brand{
+        padding-left:50px;
+        padding-right:0px;
+      }
+      #h1{
+        font-size: larger;
+      }
+      #bar{
+        padding-left:0px;padding-right:500px;
+      }
+      #search{
+       width: 400px;
+      }
+
+      #car{
+   
+        padding: 0 0.9rem 0.1rem 0.9rem; border-radius:3rem;text-decoration:none; color:#000;background-color:#f68b1e;
+        font-size: larger;
+    }
+    #car1{
+        font-size: large;
+    }
+    .nav-link{
+        font-size: large;
+        font-weight: bold;
+    }
+    #text{
+        font-size: xx-small;
+       
+       
+    }
+    #text1{
+        font-size: xx-small;
+        font-weight: bold;
+    }
+    .imgee{
+        margin-top: 5px;
+        width: 100%;
+      }
+      .imge{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .imge2{
+        width: 100%; 
+        margin-bottom: 20px;  
+    }
+    #myBtn {
+        display: none; 
+        position: fixed; 
+        bottom: 20px; 
+        right: 30px; 
+        z-index: 99; 
+        border: none; 
+        border-radius: 20px;
+        height: 6vw;
+        width: 6vw;
+        outline: none; 
+        background-color:  #f68b1e; 
+        color: white; 
+        cursor: pointer; 
+        padding: 3px; 
+        font-size: 25px; 
+      }
+      #myBtn:hover {
+        background-color: #f68b1e; 
+        color: #ffff;
+      }
+      #imgsss{
+        width: 130px;
+      }
+      #imgss{
+        width: 100px;
+        height: 70px;
+      }
+      #qty{
+        width: 114px;
+        font-size: small; 
+      }
+
+      .deleteItem{
+        width: 80px;
+        font-size: small;
+        margin-left: 15px;
+    }
+    .addToWishlist{
+        width: 80px;
+        font-size: small;
+        margin-left: 15px;
+    }
+   
+  }
+
+
+  @media (max-width:550px) {
+    #myBtn {
+    display: none; 
+    position: fixed; 
+    bottom: 20px; 
+    right: 30px; 
+    z-index: 99; 
+    border: none; 
+    border-radius: 20px;
+    height: 9vw;
+    width: 9vw;
+    outline: none; 
+    background-color:  #f68b1e; 
+    color: white; 
+    cursor: pointer; 
+    padding: 3px; 
+    font-size: 25px; 
+  }
+  #wishlist{
+    font-size: large;
+  }
+  #sell{
+    font-size: xx-small;
+  }
+  #navbar-brand{
+    padding-left: 10px;
+    padding-right:5px;
+  }
+  #h1{
+    font-size: larger;
+  }
+  #bar{
+    padding-left:0px;padding-right:300px;
+  }
+  #imgs{
+    width: 100px;
+    height: 45px;
+  }
+  #imgsss{
+    width: 100px;
+    display: flex;
+    
+  }
+  #imgss{
+    width: 50px;
+    height: 40px;
+  }
+  #img{
+    width: 90px;
+    display: flex;
+  }
+
+  .imgee{
+    width: 320px;
+    position: sticky;
+    margin-top: -185px;
+    left: 110px;
+}
+.imge2{
+    width: 90px; 
+    margin-bottom: 6px;  
+}
+
+.imge{
+    width: 90px;
+    margin-bottom: 3px;
+   
+}
+#flex1{
+   
+    position: sticky;
+    margin-top: -190px;
+    margin-left: 430px;
+}
+
+  .owl-carousel .owl-nav button{
+    position: absolute;
+    top: 10%;
+    outline: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev{
+    left: -45px;
+    top: 5px;
+   
+  }
+  .owl-carousel .owl-nav button.owl-next{
+    right: -45px;
+    top: 5px;
+   
+  }
+  #search{
+   width: 300px;
+   padding-top: 20px;
+  }
+
+  #car{
+
+    padding: 0 0.9rem 0.1rem 0.9rem; border-radius:3rem;text-decoration:none; color:#000;background-color:#f68b1e;
+    font-size: larger;
+}
+#car1{
+    font-size: large;
+}
+.nav-link{
+    font-size: large;
+    font-weight: bold;
+}
+#text{
+    font-size: 4px;
+    font-weight: lighter; 
+}
+#text1{
+    padding-top: 2px;
+    font-size: 4px;
+    font-weight: bold;
+}
+#row{
+    display: none;
+}
+
+#cimg{
+    width: 100px;
+    height: 100px;
+}
+#name1{
+    position: absolute;
+    top: 15px;
+    left: 110px;
+    width: 100px;
+    font-size: small;
+}
+#name2{
+    position: absolute;
+    top: 15px;
+    left: 110px;
+    width: 100px;
+    font-size: small;
+}
+#price1{
+    position: absolute;
+    top: 12px;
+    left: 260px;
+    width: 100px;
+    font-size: large;
+}
+#qty{
+    position: absolute;
+    top: -10px;
+    left: 360px;
+    width: 110px;
+    font-size: small;
+  }
+.deleteItem{
+    position: absolute;
+    top: 75px;
+    left: 216px;
+    width: 100px;
+    font-size: small;
+    
+}
+.addToWishlist{
+    position: absolute;
+    top: 75px;
+    left: 325px;
+    width: 125px;
+    font-size: small;
+}
+
+#name1{
+    font-size: small;
+}
+
+#cimg{
+    width: 100px;
+  
+}
+
+#wimg{
+    width: 100px;
+    height: 100px;
+}
+#price2{
+    position: absolute;
+    top: 13px;
+    left: 340px;
+    width: 100px;
+    font-size: large;
+}
+.deleteItem2{
+    position: absolute;
+    top: 75px;
+    left: 208px;
+    width: 100px;
+    font-size: small;
+}
+.addback{
+    position: absolute;
+    top: 75px;
+    left: 316px;
+    width: 125px;
+    font-size: small;
+}
+#imgc{
+    width: 100px;
+    height: 100px;
+}
+#name3{
+    position: absolute;
+    left: 125px;
+    width: 100px;
+    margin-top: -60px;
+    font-size: large;
+}
+  
+#price3{
+    position: absolute;
+    right: 120px;
+    margin-top: -60px;
+}
+#qty1{
+    position: absolute;
+    right: 40px;
+    margin-top: -60px;
+}
+
+#imgp1{
+    width: 210px;
+    position: sticky;
+    left: 155px;
+    margin-top: -30px;
+    }
+
+#imgp{
+    width: 550px;
+    height: 245px;
+    margin-bottom: 5px;
+}
+
+#mean{
+    font-size: small;
+    position: absolute;
+    left: 190px;
+    margin-top: -15px;
+}
+
+#mean1{
+    font-size: small;
+    width: 100px;
+}
+#mean2{
+    font-size: small;
+}
+
+#mean3{
+    font-size: small;
+}
+
+#mean4{
+    font-size: small;
+}
+
+#mean5{
+    font-size: small;
+}
+
+#mean6{
+    font-size: small;
+}
+#table{
+    font-size: x-small;
+}
+
+#btn3{
+    font-size: xx-small;
+}
+
+#col-md{
+    width: 180px;
+    display: flex;
+}
+
+#mage{
+    width: 100px;
+    height: 60px;
+}
+
+#magen{
+    margin-top: 10px;
+    width: 100px;
+    font-size: x-small;
+}
+
+.fa-star{
+    margin-bottom: 13px;
+    font-size: x-small;
+}
+#up{
+    margin-top: -10px;
+}
+
+#mageo{
+    font-size: xx-small;
+}
+
+#mages{
+    font-size: small;
+}
+
+  } 
+
+
+
+  
+  @media (max-width:450px) {
+    #myBtn {
+    display: none; 
+    position: fixed; 
+    bottom: 20px; 
+    right: 30px; 
+    z-index: 99; 
+    border: none; 
+    border-radius: 20px;
+    height: 16vw;
+    width: 16vw;
+    outline: none; 
+    background-color:  #f68b1e; 
+    color: white; 
+    cursor: pointer; 
+    padding: 3px; 
+    font-size: 25px; 
+  }
+  #wishlist{
+    font-size: large;
+  }
+  #sell{
+    font-size: xx-small;
+  }
+  #navbar-brand{
+    padding-left: 10px;
+    padding-right:5px;
+  }
+  #h1{
+    font-size: larger;
+  }
+  #bar{
+    padding-left:0px;padding-right:200px;
+  }
+  #imgs{
+    width: 100px;
+    height: 45px;
+  }
+  #imgsss{
+    width: 100px;
+    display: flex;
+    
+  }
+  #imgss{
+    width: 50px;
+    height: 40px;
+  }
+  #img{
+    width: 137px;
+    display: flex;
+  }
+
+  .imgee{
+    width: 260px;
+    position: sticky;
+    margin-top: -145px;
+    left: 80px;
+}
+.imge2{
+    width: 65px; 
+    margin-bottom: 6px;  
+}
+#flex1{
+   
+    position: sticky;
+    margin-top: -150px;
+    margin-left: 337px;
+}
+
+  .owl-carousel .owl-nav button{
+    position: absolute;
+    top: 10%;
+    outline: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev{
+    left: -45px;
+    top: 5px;
+   
+  }
+  .owl-carousel .owl-nav button.owl-next{
+    right: -45px;
+    top: 5px;
+   
+  }
+  #search{
+   width: 300px;
+   padding-top: 20px;
+  }
+
+  #car{
+
+    padding: 0 0.9rem 0.1rem 0.9rem; border-radius:3rem;text-decoration:none; color:#000;background-color:#f68b1e;
+    font-size: larger;
+}
+#car1{
+    font-size: large;
+}
+.nav-link{
+    font-size: large;
+    font-weight: bold;
+}
+#text{
+    font-size: 4px;
+    font-weight: lighter; 
+}
+#text1{
+    font-size: xx-small;
+    font-weight: bold;
+}
+.imge{
+    width: 68px;
+    margin-bottom: 3px;
+   
+}
+
+#row{
+    display: none;
+}
+#cimg{
+    width: 100px;
+    height: 100px;
+}
+#name1{
+    position: absolute;
+    top: 10px;
+    left: 110px;
+    width: 100px;
+    font-size: small;
+}
+#name2{
+    position: absolute;
+    top: 10px;
+    left: 110px;
+    width: 100px;
+    font-size: small;
+}
+#price1{
+    position: absolute;
+    top: 50px;
+    left: 230px;
+    width: 100px;
+    font-size: large;
+}
+#qty{
+    position: absolute;
+    top: -10px;
+    left: 230px;
+    width: 110px;
+    font-size: x-small;
+  }
+.deleteItem{
+    position: absolute;
+    top: 75px;
+    left: 100px;
+    width: 100px;
+    font-size: small;
+    
+}
+.addToWishlist{
+    position: absolute;
+    top: 75px;
+    left: 210px;
+    width: 124px;
+    font-size: small;
+}
+
+#price2{
+    position: absolute;
+    top: 10px;
+    left: 230px;
+    width: 100px;
+    font-size: large;
+}
+.deleteItem2{
+    position: absolute;
+    top: 75px;
+    left: 120px;
+    width: 90px;
+    font-size: x-small;
+}
+.addback{
+    position: absolute;
+    top: 75px;
+    left: 220px;
+    width: 104px;
+    font-size: x-small;
+}
+
+#imgc{
+    width: 60px;
+    height: 60px;
+}
+#name3{
+    position: absolute;
+    left: 83px;
+    width: 100px;
+    margin-top: -40px;
+    font-size: small;
+}
+  
+#price3{
+    position: absolute;
+    right: 90px;
+    margin-top: -40px;
+}
+#qty1{
+    position: absolute;
+    right: 40px;
+    margin-top: -40px;
+}
+
+#imgp1{
+    width: 200px;
+    position: sticky;
+    left: 105px;
+    margin-top: -25px;
+    }
+
+#imgp{
+    width: 420px;
+    height: 245px;
+    margin-bottom: 5px;
+}
+
+
+#td{
+    font-size: large;
+    font-weight: bold;
+    width: 50px;
+}
+#td1{
+    font-size: large;
+    font-weight: bold;
+}
+#td2{
+    font-size: large;
+    font-weight: bold;
+}
+#table{
+    font-size: x-small;
+}
+
+#btn3{
+    font-size: xx-small;
+}
+
+#col-md{
+    width: 137px;
+    display: flex;
+}
+
+#magen{
+    margin-top: 10px;
+    width: 60px;
+    font-size: x-small;
+}
+
+.fa-star{
+    margin-bottom: 13px;
+    font-size: xx-small;
+}
+#up{
+    margin-top: -17px;
+}
+
+#btn2{
+    font-size: 7px;
+    font-weight: bold;
+}
+
+  } 
+
+
+  @media (max-width:400px) {
+    #myBtn {
+    display: none; 
+    position: fixed; 
+    bottom: 20px; 
+    right: 30px; 
+    z-index: 99; 
+    border: none; 
+    border-radius: 20px;
+    height: 12vw;
+    width: 12vw;
+    outline: none; 
+    background-color:  #f68b1e; 
+    color: white; 
+    cursor: pointer; 
+    padding: 3px; 
+    font-size: 25px; 
+  }
+  #wishlist{
+    font-size: large;
+  }
+  #sell{
+    font-size: xx-small;
+  }
+  #navbar-brand{
+    padding-left: 10px;
+    padding-right:5px;
+  }
+  #h1{
+    font-size: larger;
+  }
+  #bar{
+    padding-left:0px;padding-right:170px;
+  }
+  #imgs{
+    width: 100px;
+    height: 45px;
+  }
+  #imgsss{
+    width: 70px;
+    
+    
+  }
+  #imgss{
+    width: 40px;
+    height: 40px;
+  }
+  #img{
+    width: 125px;
+    display: flex;
+  }
+
+  .imgee{
+    width: 220px;
+    position: sticky;
+    margin-top: -127px;
+    left: 80px;
+}
+.imge2{
+    width: 60px; 
+    margin-bottom: 3px;  
+}
+.imge{
+    width: 60px;
+    margin-bottom: 3px;
+   
+}
+#flex1{
+   
+    position: sticky;
+    margin-top: -131px;
+    margin-left: 300px;
+}
+
+  .owl-carousel .owl-nav button{
+    position: absolute;
+    top: 10%;
+    outline: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev{
+    left: -45px;
+    top: 5px;
+   
+  }
+  .owl-carousel .owl-nav button.owl-next{
+    right: -45px;
+    top: 5px;
+   
+  }
+  #search{
+   width: 300px;
+   padding-top: 20px;
+  }
+
+  #car{
+
+    padding: 0 0.9rem 0.1rem 0.9rem; border-radius:3rem;text-decoration:none; color:#000;background-color:#f68b1e;
+    font-size: larger;
+}
+#car1{
+    font-size: large;
+}
+.nav-link{
+    font-size: large;
+    font-weight: bold;
+}
+#text{
+    font-size: 4px;
+    font-weight: lighter; 
+}
+#text1{
+    font-size: xx-small;
+    font-weight: bold;
+}
+
+#row{
+    display: none;
+}
+#name1{
+    position: absolute;
+    top: 15px;
+    left: 110px;
+    width: 100px;
+    font-size: small;
+}
+#name2{
+    position: absolute;
+    top: 15px;
+    left: 110px;
+    width: 100px;
+    font-size: small;
+}
+#price1{
+    position: absolute;
+    top: 50px;
+    left: 210px;
+    width: 100px;
+    font-size: large;
+}
+#qty{
+    position: absolute;
+    top: -10px;
+    left: 200px;
+    width: 110px;
+    font-size: small;
+  }
+.deleteItem{
+    position: absolute;
+    top: 75px;
+    left: 95px;
+    width: 90px;
+    font-size: x-small;
+    
+}
+.addToWishlist{
+    position: absolute;
+    top: 75px;
+    left: 190px;
+    width: 105px;
+    font-size: x-small;
+}
+
+#price2{
+    position: absolute;
+    top: 30px;
+    left: 205px;
+    width: 100px;
+    font-size: large;
+}
+.deleteItem2{
+    position: absolute;
+    top: 75px;
+    left: 107px;
+    width: 83px;
+    font-size: x-small;
+}
+.addback{
+    position: absolute;
+    top: 75px;
+    left: 193px;
+    width: 93px;
+    font-size: x-small;
+}
+
+#imgp1{
+    width: 200px;
+    position: sticky;
+    left: 95px;
+    margin-top: -25px;
+    }
+
+#imgp{
+    width: 420px;
+    height: 245px;
+    margin-bottom: 5px;
+}
+
+#mean{
+    font-size: small;
+    position: absolute;
+    left: 190px;
+    margin-top: -15px;
+}
+
+#mean1{
+    font-size: small;
+    width: 100px;
+}
+#mean2{
+    font-size: small;
+}
+
+#mean3{
+    font-size: small;
+}
+
+#mean4{
+    font-size: small;
+}
+
+#mean5{
+    font-size: small;
+}
+
+#mean6{
+    font-size: small;
+}
+#th{
+    
+    font-size: small;
+}
+
+#td{
+    font-size: small;
+    font-weight: bold;
+    width: 50px;
+}
+#td1{
+    font-size: small;
+    font-weight: bold;
+}
+#td2{
+    font-size: small;
+    font-weight: bold;
+}
+#table{
+    font-size: x-small;
+}
+
+#btn3{
+    width: 42px;
+    font-size: 5px;
+}
+
+#col-md{
+    width: 130px;
+    display: flex;
+}
+
+#magen{
+    margin-top: 10px;
+    width: 60px;
+    font-size: x-small;
+}
+
+.fa-star{
+    margin-bottom: 13px;
+    font-size: xx-small;
+}
+#up{
+    margin-top: -17px;
+}
+
+#btn2{
+    font-size: 7px;
+    font-weight: bold;
+}
+
+  } 
+
+
+
+
+  @media (max-width:375px) {
+    #myBtn {
+    display: none; 
+    position: fixed; 
+    bottom: 20px; 
+    right: 30px; 
+    z-index: 99; 
+    border: none; 
+    border-radius: 20px;
+    height: 16vw;
+    width: 16vw;
+    outline: none; 
+    background-color:  #f68b1e; 
+    color: white; 
+    cursor: pointer; 
+    padding: 3px; 
+    font-size: 25px; 
+  }
+  #wishlist{
+    font-size: large;
+  }
+  #sell{
+    font-size: xx-small;
+  }
+  #navbar-brand{
+    padding-left: 10px;
+    padding-right:5px;
+  }
+  #h1{
+    font-size: larger;
+  }
+  #bar{
+    padding-left:0px;padding-right:150px;
+  }
+  #imgs{
+    width: 100px;
+    height: 45px;
+  }
+  #imgsss{
+    width: 70px;
+    
+    
+  }
+  #imgss{
+    width: 40px;
+    height: 40px;
+  }
+  #img{
+    width: 120px;
+    display: flex;
+  }
+
+  .imgee{
+    width: 210px;
+    position: sticky;
+    margin-top: -127px;
+    left: 74px;
+}
+.imge2{
+    width: 60px; 
+    margin-bottom: 3px;  
+}
+.imge{
+    width: 60px;
+    margin-bottom: 3px;
+   
+}
+#flex1{
+   
+    position: sticky;
+    margin-top: -131px;
+    margin-left: 285px;
+}
+
+  .owl-carousel .owl-nav button{
+    position: absolute;
+    top: 10%;
+    outline: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev{
+    left: -45px;
+    top: 5px;
+   
+  }
+  .owl-carousel .owl-nav button.owl-next{
+    right: -45px;
+    top: 5px;
+   
+  }
+  #search{
+   width: 300px;
+   padding-top: 20px;
+  }
+
+  #car{
+
+    padding: 0 0.9rem 0.1rem 0.9rem; border-radius:3rem;text-decoration:none; color:#000;background-color:#f68b1e;
+    font-size: larger;
+}
+#car1{
+    font-size: large;
+}
+.nav-link{
+    font-size: large;
+    font-weight: bold;
+}
+#text{
+    font-size: 4px;
+    font-weight: lighter; 
+}
+#text1{
+    font-size: xx-small;
+    font-weight: bold;
+}
+
+#row{
+    display: none;
+}
+
+#cimg{
+    width: 80px;
+    height: 90px;
+}
+#wimg{
+    width: 80px;
+    height: 90px;
+}
+#name1{
+    position: absolute;
+    top: 15px;
+    left: 87px;
+    width: 100px;
+    font-size: small;
+}
+#name2{
+    position: absolute;
+    top: 15px;
+    left: 87px;
+    width: 100px;
+    font-size: small;
+}
+#price1{
+    position: absolute;
+    top: 50px;
+    left: 200px;
+    width: 100px;
+    font-size: large;
+}
+#qty{
+    position: absolute;
+    top: -10px;
+    left: 180px;
+    width: 110px;
+    font-size: small;
+  }
+.deleteItem{
+    position: absolute;
+    top: 73px;
+    left: 72px;
+    width: 90px;
+    font-size: x-small;
+    
+}
+.addToWishlist{
+    position: absolute;
+    top: 73px;
+    left: 169px;
+    width: 105px;
+    font-size: x-small;
+}
+
+#price2{
+    position: absolute;
+    top: 30px;
+    left: 183px;
+    width: 100px;
+    font-size: large;
+}
+.deleteItem2{
+    position: absolute;
+    top: 73px;
+    left: 86px;
+    width: 83px;
+    font-size: x-small;
+}
+.addback{
+    position: absolute;
+    top: 73px;
+    left: 174px;
+    width: 93px;
+    font-size: x-small;
+}
+#imgp1{
+    width: 200px;
+    position: sticky;
+    left: 80px;
+    margin-top: -25px;
+    }
+
+#imgp{
+    width: 420px;
+    height: 245px;
+    margin-bottom: 5px;
+}
+
+#th{
+    
+    font-size: small;
+}
+
+#td{
+    font-size: small;
+    font-weight: bold;
+    width: 50px;
+}
+#td1{
+    font-size: small;
+    font-weight: bold;
+}
+#td2{
+    font-size: small;
+    font-weight: bold;
+}
+#table{
+    font-size: x-small;
+}
+
+#btn3{
+    width: 42px;
+    font-size: 5px;
+}
+#col-md{
+    width: 120px;
+    display: flex;
+}
+
+#magen{
+    margin-top: 10px;
+    width: 60px;
+    font-size: x-small;
+}
+
+.fa-star{
+    margin-top: -8px;
+    font-size: 7px;
+}
+#up{
+    margin-top: -20px;
+}
+
+#btn2{
+    font-size: 4px;
+}
+
+#mageo{
+    font-size: 7px;
+}
+#mages{
+    font-size: xx-small;
+}
+  } 
+
+
+  @media (max-width:290px) {
+    #myBtn {
+    display: none; 
+    position: fixed; 
+    bottom: 20px; 
+    right: 30px; 
+    z-index: 99; 
+    border: none; 
+    border-radius: 20px;
+    height: 16vw;
+    width: 16vw;
+    outline: none; 
+    background-color:  #f68b1e; 
+    color: white; 
+    cursor: pointer; 
+    padding: 3px; 
+    font-size: 25px; 
+  }
+  #wishlist{
+    font-size: large;
+  }
+  #sell{
+    font-size: xx-small;
+  }
+  #navbar-brand{
+    padding-left: 10px;
+    padding-right:5px;
+  }
+  #h1{
+    font-size: larger;
+  }
+  #bar{
+    padding-left:0px;padding-right:80px;
+  }
+  #imgs{
+    width: 100px;
+    height: 45px;
+  }
+  #imgsss{
+    width: 70px;
+    
+    
+  }
+  #imgss{
+    width: 40px;
+    height: 40px;
+  }
+  #img{
+    width: 93px;
+    display: flex;
+  }
+
+  .imgee{
+    width: 160px;
+    position: sticky;
+    margin-top: -99px;
+    left: 64px;
+}
+.imge2{
+    width: 45px; 
+    margin-bottom: 2px;  
+}
+.imge{
+    width: 45px;
+    margin-bottom: 1px;
+   
+}
+#flex1{
+   
+    position: sticky;
+    margin-top: -103px;
+    margin-left: 225px;
+}
+
+  .owl-carousel .owl-nav button{
+    position: absolute;
+    top: 10%;
+    outline: none;
+  }
+
+  .owl-carousel .owl-nav button.owl-prev{
+    left: -45px;
+    top: 5px;
+   
+  }
+  .owl-carousel .owl-nav button.owl-next{
+    right: -45px;
+    top: 5px;
+   
+  }
+  #search{
+   width: 250px;
+   padding-top: 20px;
+  }
+
+  #car{
+
+    padding: 0 0.9rem 0.1rem 0.9rem; border-radius:3rem;text-decoration:none; color:#000;background-color:#f68b1e;
+    font-size: larger;
+}
+#car1{
+    font-size: large;
+}
+.nav-link{
+    font-size: large;
+    font-weight: bold;
+}
+#text{
+    font-size: 4px;
+    font-weight: lighter; 
+}
+#text1{
+    font-size: 5px;
+    font-weight: bold;
+}
+
+#cimg{
+    width: 80px;
+    height: 90px;
+}
+#wimg{
+    width: 80px;
+    height: 90px;
+}
+#name1{
+    position: absolute;
+    top: 4px;
+    left: 87px;
+    width: 100px;
+    font-size: x-small;
+}
+#name2{
+    position: absolute;
+    top: 4px;
+    left: 84px;
+    width: 100px;
+    font-size:xx-small;
+}
+#price1{
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    width: 100px;
+    font-size: small;
+}
+#qty{
+    position: absolute;
+    top: 15px;
+    left: 86px;
+    width: 90px;
+  }
+  #btc1{
+    width: 2px;
+    font-size: 9px;
+  }
+  #btc2{
+    width: 0px;
+    font-size: 9px;
+  }
+  #btc3{
+    width: 2px;
+    font-size: 9px;
+  }
+.deleteItem{
+    position: absolute;
+    top: 77px;
+    left: 69px;
+    width: 60px;
+    font-size: 5px;
+    
+}
+#btn3{
+    font-size: small;
+}
+
+.addToWishlist{
+    position: absolute;
+    top: 77px;
+    left: 133px;
+    width: 67px;
+    font-size: 5px;
+}
+
+#price2{
+    position: absolute;
+    top: 30px;
+    left: 90px;
+    width: 100px;
+    font-size: small;
+}
+.deleteItem2{
+    position: absolute;
+    top: 50px;
+    left: 89px;
+    width: 67px;
+    font-size: 7px;
+}
+.addback{
+    position: absolute;
+    top: 77px;
+    left: 89px;
+    width: 80px;
+    font-size: 7px;
+}
+
+#imgc{
+    width: 40px;
+    height: 40px;
+}
+#name3{
+    position: absolute;
+    left: 60px;
+    width: 100px;
+    margin-top: -40px;
+    font-size: small;
+
+}
+  
+#price3{
+    position: absolute;
+    right: 50px;
+    margin-top: -30px;
+}
+#qty1{
+    position: absolute;
+    right: 23px;
+    margin-top: -28px;
+    font-size: x-small;
+}
+
+
+
+#imgp1{
+    width: 170px;
+    position: sticky;
+    left: 55px;
+    margin-top: -10px;
+    }
+
+#imgp{
+    width: 420px;
+    height: 245px;
+    margin-bottom: 5px;
+}
+
+
+#mean{
+    font-size: small;
+    position: absolute;
+    left: 190px;
+    margin-top: -15px;
+}
+
+#mean1{
+    font-size: small;
+    width: 100px;
+}
+#mean2{
+    font-size: small;
+}
+
+#mean3{
+    font-size: small;
+}
+
+#mean4{
+    font-size: small;
+}
+
+#mean5{
+    font-size: small;
+}
+
+#mean6{
+    font-size: small;
+}
+
+
+#tr{
+    position: absolute;
+    margin-top: -25px;
+}
+
+#th{
+    
+    font-size: small;
+}
+
+#td{
+    font-size: small;
+    font-weight: bold;
+    width: 50px;
+}
+#td1{
+    font-size: small;
+    font-weight: bold;
+}
+#td2{
+    font-size: small;
+    font-weight: bold;
+}
+
+#h5{
+    font-size: small;
+}
+
+#table{
+    font-size: 10px;
+}
+
+#btn3{
+    width: 45px;
+    font-size: 6px;
+}
+
+
+#col-md{
+    width: 140px;
+    display: flex;
+}
+
+#magen{
+    margin-top: 10px;
+    width: 60px;
+    font-size: x-small;
+}
+
+.fa-star{
+    margin-top: -8px;
+    font-size: 7px;
+}
+#up{
+    margin-top: -20px;
+}
+
+#btn2{
+    font-size: 7px;
+}
+
+#mageo{
+    font-size: 7px;
+}
+#mages{
+    font-size: xx-small;
+}
+}
+
+
+

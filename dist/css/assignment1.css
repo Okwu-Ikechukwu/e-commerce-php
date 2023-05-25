@@ -1,0 +1,261 @@
+body{
+    /* background: linear-gradient(white 0%, white 53%, rgb(131, 22, 131) 53%,  */
+    /* rgb(54, 4, 54) 100%); */
+    /* width:50%; */
+    
+    
+}
+.logo {
+    margin-left: 70px;
+    font-size: 40px;
+    font-family: cursive, forte, sans-serif;
+    
+}
+a{
+    color: #5c2477;
+}
+.c1{
+    margin-top: 100px;
+    margin-left: 150px;
+    color: rgb(246, 132, 151);
+
+}
+.p0{
+    position: relative;
+    bottom: 38px;
+}
+.p1{
+    color: rgb(68, 68, 68);
+    position: relative;
+    bottom: 60px;
+    font-size: 20px;
+    
+}
+.p2{
+    color: white;
+    padding: 3px 40px;
+    border: none;
+    background-color: #9c5fbb;
+    border-radius: 3px;
+    margin-right: 20%;
+    font-size: 12px;
+    bottom: 5px;
+    position: absolute;
+}
+.insert{
+    margin-left: 650px;
+    bottom: 300px;
+    position: absolute;
+    font-size: 40px;
+}
+
+.but1{
+    background-color: #9c5fbb ;
+    border-radius:5px ;
+    padding: 3px 40px;
+    position:absolute;
+    color: rgb(232, 211, 211);
+}
+.c2{
+    margin-top: 2%;
+    margin-left: 14%;
+}
+.c2 .first{
+    height: 130px;
+    width: 150px;
+    margin-left: 5%;
+    background-color: white;
+    position: absolute;
+    
+
+}
+.c2 .first p{
+    font-size: 15px;
+    margin-left: 15%;
+    font-family: cursive, forte, sans-serif;
+}
+.c2 .first img{
+    height: 80px;
+    width: 80px;
+    margin-left: 16%;
+    margin-top: 10%;
+}
+.c2 .second{
+    height: 130px;
+    width: 150px;
+    margin-left: 22%;
+    background-color: white;
+    position: absolute;
+}
+.c2 .second p{
+    font-size: 15px;
+    margin-left: 22%;
+    margin-top: 12px;
+    font-family: cursive, forte, sans-serif;
+}
+.c2 .second img{
+    height: 50px;
+    width: 50px;
+    margin-left: 28%;
+    margin-top: 20%;
+    
+}
+.c2 .third{
+    height: 130px;
+    width: 150px;
+    margin-left: 39%;
+    background-color: white;
+    position: absolute;
+
+}
+.c2 .third p{
+    font-size: 15px;
+    margin-left: 18%;
+    margin-top: 12px;
+    font-family: cursive, forte, sans-serif;
+}
+.c2 .third img{
+    height: 50px;
+    width: 70px;
+    margin-left: 20%;
+    margin-top: 20%;
+
+}
+.c2 .fourth{
+    height: 130px;
+    width: 150px;
+    margin-left: 56%;
+    background-color: white;
+    position: absolute;
+}
+.c2 .fourth p{
+    font-size: 15px;
+    margin-left: 20%;
+    margin-top: 12px;
+    font-family: cursive, forte, sans-serif;
+}
+.c2 .fourth img{
+    height: 50;
+    width: 50px;
+    margin-left: 27%;
+    margin-top: 18%;
+
+}
+.c3 {
+    margin-top: 30%;
+    margin-left: 70px;
+    color: rgb(202, 172, 202);
+   
+}
+.c3 .next h4{
+    font-family:cursive, forte, sans-serif ;
+}
+.c3 h2{
+    color: rgb(64, 15, 64);
+}
+.c3 button{
+    background-color: rgb(175, 103, 241);
+}
+.c3 .next1{
+    margin-left: 25%;
+    position: absolute;
+}
+.c3 .next2{
+    margin-left: 55%;
+    position: absolute;
+}
+.c4{
+    
+    margin-top: 20%;
+    margin-left: 70px;
+}
+.c4 .insert5{
+    position: absolute;
+    margin-left: 57%;
+    background-color: #5c2477;
+    padding: 40px ;
+    color:rgb(202, 172, 202);
+    font-size: 14px;
+
+    
+}
+.c4 .insert4{
+    position: absolute;
+    margin-left: 25%;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    
+    
+}
+.c4 h1{
+    color: #9c5fbb;
+}
+.c4 .insert3{
+    position: absolute;
+    font-size: 14px;
+    text-align: center;
+    
+}
+.c4 .insert3 h1 {
+    position: absolute;
+    margin-left: 9%;
+}
+.c4 .insert3 h6 {
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 12%;
+}
+.c4 .insert3 p{
+    position: absolute;
+    margin-left: 0%;
+    margin-top: 18%;
+}
+.c4 .insert8{
+    position: absolute;
+    margin-top: 35%;
+}
+.c4 button{
+    background-color: rgb(175, 103, 241);
+}
+.c4 .insert8 h3{
+    color: #5c2477;
+}
+
+.c4 .insert6{
+    position: absolute;
+    margin-top: 20%;
+    font-size: 14px;
+    
+    
+}
+.c4 .insert6 h1 {
+    position: absolute;
+    margin-left: 9%;
+}
+.c4 .insert6 h6 {
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 12%;
+}
+.c4 .insert6 p{
+    position: absolute;
+    margin-left: 0%;
+    margin-top: 18%;
+}
+
+.c4 .insert7{
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 20%;
+    font-size: 14px;
+    text-align: center;
+}
+.c5{
+    /* margin: 70px; */
+    margin-top: 65%;
+    width: 90%;
+    border: 1px solid red;
+}
+
+
